@@ -47,7 +47,7 @@
 		   <?php else: ?>
 		   	<tr>
 		    	<td colspan="7" style="color:#4caf50; text-align:center; font-size: 30px; padding: 0">
-		    		Giỏ hàng của bạn trống!!!!!!!
+		    		Giỏ hàng trống!!!!!!!
 		    	</td>
 		    <tr>
 		   <?php endif ?>
