@@ -66,7 +66,7 @@ header("location: thong-bao.php");
 <input type='text' readonly="" name="address" placeholder='Địa chỉ' id='address' class='address'value="<?php echo $users['address'] ?>">
 </div>
 <div class='form-input input-medium'>
-<label>Số tiền phải trả</label><br/>
+<label>Số tiền phải trả là:</label><br/>
 <input type='text' readonly="" name="address" placeholder='Địa chỉ' id='address' class='address'value="<?php echo formatPrice($_SESSION['total']) ?>">
 </div>
 
